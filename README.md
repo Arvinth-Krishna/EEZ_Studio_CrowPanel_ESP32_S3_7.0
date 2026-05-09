@@ -4,6 +4,8 @@ EEZ Studio + LVGL + PlatformIO integration for the ELECROW ESP32-S3 7.0 Inch HMI
 
 Simple and beginner-friendly setup for building embedded GUI applications on ESP32-S3.
 
+Product Link: https://www.elecrow.com/esp32-display-7-inch-hmi-display-rgb-tft-lcd-touch-screen-support-lvgl.html?srsltid=AfmBOoo0fakNLm7ErZvLYBqXlPKS8sv678TugMUJV9_ufwB0YE1CkzPy
+
 ---
 
 # Features
